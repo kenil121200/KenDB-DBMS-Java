@@ -22,9 +22,9 @@ The goal of this project was to design and implement a database schema for a uni
 ### Repository Structure
 
 - **[Report.pdf]( Report.pdf)**: The project report containing the database design, implementation details, and SQL queries.
-- **create_tables.sql: SQL script to create the database tables.
-- **insert_data.sql: SQL script to insert sample data into the tables.
-- **queries.sql: SQL script containing the queries for data retrieval and analysis.
+- create_tables.sql: SQL script to create the database tables.
+- insert_data.sql: SQL script to insert sample data into the tables.
+- queries.sql: SQL script containing the queries for data retrieval and analysis.
 
 ### Setup and Usage
 
