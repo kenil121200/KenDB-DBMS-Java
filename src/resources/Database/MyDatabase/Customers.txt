@@ -1,0 +1,4 @@
+Customers(CustomerID:INT,FirstName:VARCHAR,LastName:VARCHAR,PRIMARY_KEY:CustomerID)
+1|Mathew|'Patel'
+2|'Rajesh'|'Parmar'
+3|'Mahesh'|'Parmar'
